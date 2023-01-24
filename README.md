@@ -1,1 +1,1 @@
-# kodluyoruzhtml1
+## Kodluyoruz ilk HTML ödevi.
